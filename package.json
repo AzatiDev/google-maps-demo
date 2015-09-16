@@ -1,0 +1,28 @@
+{
+  "name": "google_maps_demo",
+  "version": "0.0.1",
+  "description": "Google maps demo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azati corp.",
+  "private": true,
+  "devDependencies": {
+    "connect": "^3.4.0",
+    "connect-livereload": "^0.5.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-livereload": "^3.8.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.0",
+    "gulp-zip": "^3.0.2",
+	"gulp-cssmin": "^0.1.7",
+    "gulp-copy": "^0.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-watch": "^4.3.4",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
